@@ -1,4 +1,4 @@
-![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhik2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<!-- ![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhik2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) -->
 - How to reach me: **vidhik2002@gmail.com**
 ## 🧰 Languages and Tools:
 <p align="left">
