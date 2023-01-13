@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="left"> Hi there! I'm Vidhi <3 </h1>
-<hr>
+
  
 ## About me
 
