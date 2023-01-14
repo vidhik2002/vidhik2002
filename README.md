@@ -67,7 +67,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhik2002&layout=compact&theme=dark"  width="48%" align="left" height="270px"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhik2002&layout=compact&theme=dark"  width="48%" align="left" height="270px"/> -->
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vidhik2002&theme=dark" width="48%" height="300px" >
 <!--  ![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhik2002&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) -->
  
