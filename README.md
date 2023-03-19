@@ -84,10 +84,6 @@
 <a href="https://github.com/vidhik2002" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.vidhi-khaitan.live/" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-</a>
-
 
  
 
