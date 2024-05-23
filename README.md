@@ -4,9 +4,9 @@
  
 ## About me
 
-- 🏄‍ Self-taught developer and tech enthusiaist
+- 🏄‍ Self-taught developer and tech enthusiast
 - 😄 You will find me trying out new things and exploring 
-- 🔭 I am currently a 3rd CSE student at Vellore Institute of Technology, Vellore
+- 🔭 I am currently a 4th year CSE student at Vellore Institute of Technology, Vellore
 - 🌱 I love to write technical blogs, and learn about finance in my free time!
 
  
